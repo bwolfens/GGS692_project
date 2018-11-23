@@ -201,16 +201,16 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [29.649916, -82.348627]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Florida",
+    "nickname": "Gators",
+    "city": "Gainesville, FL",
+    "conference": "SEC",
+    "stadium": "Ben Hill Griffin Stadium",
+    "capacity": "88,548",
+    "National Championships": "3"
   }
 }
 
@@ -218,16 +218,18 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [30.438149, -84.304423
+]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Florida State",
+    "nickname": "Seminoles",
+    "city": "Tallahassee, FL",
+    "conference": "ACC",
+    "stadium": "Doak Campbell Stadium",
+    "capacity": "79,560",
+    "National Championships": "3",
+    "iconURL": https://i.imgur.com/hbAa5Vd.png
   }
 }
 
@@ -235,16 +237,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [33.949802, -83.373361]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Georgia",
+    "nickname": "Bulldogs",
+    "city": "Athens, GA",
+    "conference": "SEC",
+    "stadium": "Sanford Stadium",
+    "capacity": "92,746",
+    "National Championships": "2"
+    "iconURL": https://i.imgur.com/Vuc67rX.png
   }
 }
 
@@ -252,16 +255,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [33.772505, -84.392856]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Georgia Tech",
+    "nickname": "Yellow Jackets",
+    "city": "Atlanta, GA",
+    "conference": "ACC",
+    "stadium": "Bobby Dodd Stadium",
+    "capacity": "55,000",
+    "National Championships": "4",
+    "iconURL": https://i.imgur.com/NFFPdh5.png
   }
 }
 
@@ -269,16 +273,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [40.099308, -88.235955]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Illinois",
+    "nickname": "Fighting Illini",
+    "city": "Champaign, IL",
+    "conference": "Big Ten",
+    "stadium": "Memorial Stadium",
+    "capacity": "60,670",
+    "National Championships": "5",
+    "iconURL": https://i.imgur.com/yuKftje.png
   }
 }
 
@@ -286,16 +291,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [39.180900, -86.525611]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Indiana",
+    "nickname": "Hoosiers",
+    "city": "Bloomington, IN",
+    "conference": "Big Ten",
+    "stadium": "Memorial Stadium",
+    "capacity": "52,656",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/lxAaKEl.png
   }
 }
 
@@ -303,16 +309,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [41.658654, -91.551088]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Iowa",
+    "nickname": "Hawkeyes",
+    "city": "Iowa City, IA",
+    "conference": "Big Ten",
+    "stadium": "Kinnick Stadium",
+    "capacity": "69,250",
+    "National Championships": "4",
+    "iconURL": https://i.imgur.com/xPlWc8B.png
   }
 }
 
@@ -320,16 +327,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [42.014001, -93.635780]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Iowa State",
+    "nickname": "Cyclones",
+    "city": "Ames, IA",
+    "conference": "Big 12",
+    "stadium": "Jack Trice Stadium",
+    "capacity": "61,500",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/88cgtxf.png
   }
 }
 
@@ -337,16 +345,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [38.963007, -95.246364]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Kansas",
+    "nickname": "Jayhawks",
+    "city": "Lawrence, KS",
+    "conference": "Big 12",
+    "stadium": "David Booth Kansas Memorial Stadium",
+    "capacity": "50,071",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/ifihT1t.png
   }
 }
 
@@ -354,16 +363,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [39.202003, -96.593840]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Kansas State",
+    "nickname": "Wildcats",
+    "city": "Manhattan, KS",
+    "conference": "Big 12",
+    "stadium": "Bill Snyder Family Stadium",
+    "capacity": "50,000",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/R0zNoeT.png
   }
 }
 
@@ -371,16 +381,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [38.022748, -84.505180]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Kentucky",
+    "nickname": "Wildcats",
+    "city": "Lexington, KY",
+    "conference": "SEC",
+    "stadium": "Kroger Field",
+    "capacity": "61,000",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/NlpkYv5.png
   }
 }
 
@@ -388,15 +399,16 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [38.205901, -85.758794]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
+    "name": "Louisville",
+    "nickname": "Cardinals",
+    "city": "Louisville, KY",
+    "conference": "ACC",
+    "stadium": "Cardinal Stadium",
+    "capacity": "61,000",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/OyrO7bq.png
   }
 }
