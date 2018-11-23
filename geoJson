@@ -2,11 +2,210 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
+    "coordinates": [33.207579, -87.550486]
+  },
+  "properties": {
+    "name": "Alabama",
+    "nickname": "Crimson Tide",
+    "city": "Tuscaloosa, AL",
+    "conference": "SEC",
+    "stadium": "Bryant-Denny Stadium",
+    "capacity": "101,821",
+    "National Championships": "17",
+    "iconURL": https://i.imgur.com/YQSBGkg.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [32.228812, -110.948857]
+  },
+  "properties": {
+    "name": "Arizona",
+    "nickname": "Wildcats",
+    "city": "Tucson, AZ",
+    "conference": "Pac-12",
+    "stadium": "Arizona Stadium",
+    "capacity": "55,675",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/HiQGVnV.png
+    
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [33.426429, -111.932590]
+  },
+  "properties": {
+    "name": "Arizona State",
+    "nickname": "Sun Devils",
+    "city": "Tempe, AZ",
+    "conference": "Pac-12",
+    "stadium": "Sun Devil Stadium",
+    "capacity": "53,599",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/eeWeQAz.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [36.068081, -94.178921]
+  },
+  "properties": {
+    "name": "Arkansas",
+    "nickname": "Razorbacks",
+    "city": "Fayetteville, AR",
+    "conference": "SEC",
+    "stadium": "Donald W. Reynolds Razorback Stadium",
+    "capacity": "76,212",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/6nHu73q.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [32.602219, -85.489141]
+  },
+  "properties": {
+    "name": "Auburn",
+    "nickname": "Tigers",
+    "city": "Auburn, AL",
+    "conference": "SEC",
+    "stadium": "Jordan-Hare Stadium",
+    "capacity": "87,451",
+    "National Championships": "2",
+    "iconURL": https://i.imgur.com/VADbFyi.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [31.558221, -97.115622]
+  },
+  "properties": {
+    "name": "Baylor",
+    "nickname": "Bears",
+    "city": "Waco, TX",
+    "conference": "Big 12",
+    "stadium": "Mclane Stadium",
+    "capacity": "45,140",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/9bBxUDi.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.335131, -71.166462]
+  },
+  "properties": {
+    "name": "Boston College",
+    "nickname": "Eagles",
+    "city": "Chestnut Hill, MA",
+    "conference": "ACC",
+    "stadium": "Alumni Stadium",
+    "capacity": "44,500",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/b714UL3.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [37.870995, -122.250778]
+  },
+  "properties": {
+    "name": "California",
+    "nickname": "Golden Bears",
+    "city": "Berkeley, CA",
+    "conference": "Pac-12",
+    "stadium": "California Memorial Stadium",
+    "capacity": "63,000",
+    "National Championships": "5",
+    "iconURL": https://i.imgur.com/LxqBfRN.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.678737, -82.843190]
+  },
+  "properties": {
+    "name": "Clemson",
+    "nickname": "Tigers",
+    "city": "Clemson, SC",
+    "conference": "ACC",
+    "stadium": "Memorial Stadium",
+    "capacity": "81,500",
+    "National Championships": "2",
+    "iconURL": https://i.imgur.com/LQfcp9z.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [40.009465, -105.266946]
+  },
+  "properties": {
+    "name": "Colorado",
+    "nickname": "Buffaloes",
+    "city": "Boulder, CO",
+    "conference": "Pac-12",
+    "stadium": "Folsom Field",
+    "capacity": "50,183",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/QIX3ORg.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.995356, -78.941716]
+  },
+  "properties": {
+    "name": "Duke",
+    "nickname": "Blue Devils",
+    "city": "Durham, NC",
+    "conference": "ACC",
+    "stadium": "Wallace Wade Stadium",
+    "capacity": "40,000",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/HmLm0VK.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
     "coordinates": [125.6, 10.1]
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -23,7 +222,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -40,7 +239,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -57,7 +256,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -74,7 +273,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -91,7 +290,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -108,7 +307,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -125,7 +324,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -142,7 +341,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -159,7 +358,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -176,7 +375,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
@@ -193,194 +392,7 @@
   },
   "properties": {
     "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": ""
-  }
-}
-
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "",
-    "nickname": ""
+    "nickname": "",
     "city": "",
     "conference": "",
     "stadium": "",
