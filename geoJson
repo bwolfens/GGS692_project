@@ -412,3 +412,257 @@
     "iconURL": https://i.imgur.com/OyrO7bq.png
   }
 }
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [30.412026, -91.183811]
+  },
+  "properties": {
+    "name": "LSU",
+    "nickname": "Tigers",
+    "city": "Baton Rouge, LA",
+    "conference": "SEC",
+    "stadium": "Tiger Stadium",
+    "capacity": "102,321",
+    "National Championships": "3",
+    "iconURL": https://i.imgur.com/CV6eQYx.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [38.990271, -76.947236]
+  },
+  "properties": {
+    "name": "Maryland",
+    "nickname": "Terrapins",
+    "city": "College Park, MD",
+    "conference": "Big Ten",
+    "stadium": "Maryland Stadium",
+    "capacity": "54,000",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/EcFmUKh.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [25.957925, -80.238837]
+  },
+  "properties": {
+    "name": "Miami",
+    "nickname": "Hurricanes",
+    "city": "Miami, FL",
+    "conference": "ACC",
+    "stadium": "Hard Rock Stadium",
+    "capacity": "65,326",
+    "National Championships": "5",
+    "iconURL": https://i.imgur.com/WQXxpwE.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.265869, -83.748726]
+  },
+  "properties": {
+    "name": "Michigan",
+    "nickname": "Wolverines",
+    "city": "Ann Arbor, MI",
+    "conference": "Big Ten",
+    "stadium": "Michigan Stadium",
+    "capacity": "107,601",
+    "National Championships": "11",
+    "iconURL": https://i.imgur.com/B7HWqNQ.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.728172, -84.484863]
+  },
+  "properties": {
+    "name": "Michigan State",
+    "nickname": "Spartans",
+    "city": "East Lansing, MI",
+    "conference": "Big Ten",
+    "stadium": "Spartan Stadium",
+    "capacity": "75,005",
+    "National Championships": "6",
+    "iconURL": https://i.imgur.com/qTwSuHH.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [44.976521, -93.224566]
+  },
+  "properties": {
+    "name": "Minnesota",
+    "nickname": "Golden Gophers",
+    "city": "Minneapolis, MN",
+    "conference": "Big Ten",
+    "stadium": "TCF Bank Stadium",
+    "capacity": "50,805",
+    "National Championships": "7",
+    "iconURL": https://i.imgur.com/8vky7T7.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [33.456340, -88.793350
+]
+  },
+  "properties": {
+    "name": "Mississippi State",
+    "nickname": "Bulldogs",
+    "city": "Starkville, MS",
+    "conference": "SEC",
+    "stadium": "Davis Wade Stadium",
+    "capacity": "61,337",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/3Z2U7Mm.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [38.935846, -92.333211]
+  },
+  "properties": {
+    "name": "Missouri",
+    "nickname": "Tigers",
+    "city": "Columbia, MO",
+    "conference": "SEC",
+    "stadium": "Memorial Stadium",
+    "capacity": "71,,168",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/WnZqQNg.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.800780, -78.719463]
+  },
+  "properties": {
+    "name": "North Carolina State",
+    "nickname": "Wolfpack",
+    "city": "Raleigh, NC",
+    "conference": "ACC",
+    "stadium": "Carter-Finley Stadium",
+    "capacity": "57,583",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/mF7a73s.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [40.820637, -96.705662]
+  },
+  "properties": {
+    "name": "Nebraska",
+    "nickname": "Cornhuskers",
+    "city": "Lincoln, NE",
+    "conference": "Big Ten",
+    "stadium": "Memorial Stadium",
+    "capacity": "85,458",
+    "National Championships": "5",
+    "iconURL": https://i.imgur.com/LMIMhgs.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.065414, -87.692491]
+  },
+  "properties": {
+    "name": "Northwestern",
+    "nickname": "Wildcats",
+    "city": "Evanston, IL",
+    "conference": "Big Ten",
+    "stadium": "Ryan Field",
+    "capacity": "47,130",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/94Wx17X.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [41.698397, -86.233928
+]
+  },
+  "properties": {
+    "name": "Notre Dame",
+    "nickname": "Fighting Irish",
+    "city": "Notre Dame, IN",
+    "conference": "Independent",
+    "stadium": "Notre Dame Stadium",
+    "capacity": "77,622",
+    "National Championships": "11",
+    "iconURL": https://i.imgur.com/PKkV2Ud.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [40.001651, -83.019732]
+  },
+  "properties": {
+    "name": "Ohio State",
+    "nickname": "Buckeyes",
+    "city": "Columbus, OH",
+    "conference": "Big Ten",
+    "stadium": "Ohio Stadium",
+    "capacity": "104,944",
+    "National Championships": "8",
+    "iconURL": https://i.imgur.com/rH8qGkz.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.205847, -97.442321]
+  },
+  "properties": {
+    "name": "Oklahoma",
+    "nickname": "Sooners",
+    "city": "Norman, OK",
+    "conference": "Big 12",
+    "stadium": "Gaylord Family Oklahoma Memorial Stadium",
+    "capacity": "86,112",
+    "National Championships": "7",
+    "iconURL": https://i.imgur.com/Zdbifbn.png
+  }
+}
