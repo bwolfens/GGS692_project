@@ -666,3 +666,256 @@
     "iconURL": https://i.imgur.com/Zdbifbn.png
   }
 }
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [36.125690, -97.066465]
+  },
+  "properties": {
+    "name": "Oklahoma State",
+    "nickname": "Cowboys",
+    "city": "Stillwater, OK",
+    "conference": "Big 12",
+    "stadium": "Boone Pickens Stadium",
+    "capacity": "60,218",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/LVGquCb.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.361997, -89.534244]
+  },
+  "properties": {
+    "name": "Ole Miss",
+    "nickname": "Rebels",
+    "city": "Oxford, MS",
+    "conference": "SEC",
+    "stadium": "Vaught-Hemingway Stadium",
+    "capacity": "64,038",
+    "National Championships": "3",
+    "iconURL": https://i.imgur.com/s263Pid.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [44.058274, -123.068511
+]
+  },
+  "properties": {
+    "name": "Oregon",
+    "nickname": "Ducks",
+    "city": "Eugene, OR",
+    "conference": "Pac-12",
+    "stadium": "Autzen Stadium",
+    "capacity": "54,000",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/9WUfj6O.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [44.559537, -123.281407]
+  },
+  "properties": {
+    "name": "Oregon State",
+    "nickname": "Beavers",
+    "city": "Corvallis, OR",
+    "conference": "Pac-12",
+    "stadium": "Reser Stadium",
+    "capacity": "43,363",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/2jDboQ6.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": []
+  },
+  "properties": {
+    "name": "",
+    "nickname": "",
+    "city": "",
+    "conference": "",
+    "stadium": "",
+    "capacity": "",
+    "National Championships": "",
+    "iconURL": 
+  }
+}
