@@ -744,17 +744,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [40.812207, -77.856121]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Penn State",
+    "nickname": "Nittany Lions",
+    "city": "State College, PA",
+    "conference": "Big Ten",
+    "stadium": "Beaver Stadium",
+    "capacity": "106,572",
+    "National Championships": "2",
+    "iconURL": https://i.imgur.com/3I8JSzm.png
   }
 }
 
@@ -762,17 +762,18 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [40.446787, -80.015774
+]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Pittsburgh",
+    "nickname": "Panthers",
+    "city": "Pittsburgh, PA",
+    "conference": "ACC",
+    "stadium": "Heinz Field",
+    "capacity": "68,400",
+    "National Championships": "9",
+    "iconURL": https://i.imgur.com/ORUsG5c.png
   }
 }
 
@@ -780,17 +781,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [40.434435, -86.918419]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Purdue",
+    "nickname": "Boilermakers",
+    "city": "West Lafayette, IN",
+    "conference": "Big Ten",
+    "stadium": "Ross-Ade Stadium",
+    "capacity": "57,236",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/zayqVSq.png
   }
 }
 
@@ -798,17 +799,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [40.513557, -74.465294]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Rutgers",
+    "nickname": "Scarlet Knights",
+    "city": "Piscataway, NJ",
+    "conference": "Big Ten",
+    "stadium": "HighPoint.com Stadium",
+    "capacity": "52,454",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/AEM7Qap.png
   }
 }
 
@@ -816,17 +817,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [33.973090, -81.019183]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "South Carolina",
+    "nickname": "Gamecocks",
+    "city": "Columbia, SC",
+    "conference": "SEC",
+    "stadium": "Williams-Brice Stadium",
+    "capacity": "80,250",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/ZoUyFKP.png
   }
 }
 
@@ -834,17 +835,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [37.434508, -122.161103]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Stanford",
+    "nickname": "Cardinal",
+    "city": "Stanford, CA",
+    "conference": "Pac-12",
+    "stadium": "Stanford Stadium",
+    "capacity": "50,424",
+    "National Championships": "2",
+    "iconURL": https://i.imgur.com/rQfUH2Z.png
   }
 }
 
@@ -852,17 +853,18 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [43.036182, -76.136411
+]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Syracuse",
+    "nickname": "Orange",
+    "city": "Syracuse, NY",
+    "conference": "ACC",
+    "stadium": "Carrier Dome",
+    "capacity": "49,262",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/K6a4OtA.png
   }
 }
 
@@ -870,17 +872,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [32.709647, -97.368089]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "TCU",
+    "nickname": "Horned Frogs",
+    "city": "Fort Worth, TX",
+    "conference": "Big 12",
+    "stadium": "Amon G. Carter",
+    "capacity": "45,000",
+    "National Championships": "2",
+    "iconURL": https://i.imgur.com/KMBkZuy.png
   }
 }
 
@@ -888,17 +890,17 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [35.954982, -83.924979]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Tennessee",
+    "nickname": "Volunteers",
+    "city": "Knoxville, TN",
+    "conference": "SEC",
+    "stadium": "Neyland Stadium",
+    "capacity": "102,455",
+    "National Championships": "6",
+    "iconURL": https://i.imgur.com/a3F8Yhf.png
   }
 }
 
@@ -906,16 +908,268 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": []
+    "coordinates": [30.283665, -97.732547]
   },
   "properties": {
-    "name": "",
-    "nickname": "",
-    "city": "",
-    "conference": "",
-    "stadium": "",
-    "capacity": "",
-    "National Championships": "",
-    "iconURL": 
+    "name": "Texas",
+    "nickname": "Longhorns",
+    "city": "Austin, TX",
+    "conference": "Big 12",
+    "stadium": "Texas Memorial Stadium",
+    "capacity": "100,119",
+    "National Championships": "4",
+    "iconURL": https://i.imgur.com/3CsF7JG.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [30.609829, -96.340473]
+  },
+  "properties": {
+    "name": "Texas A&M",
+    "nickname": "Aggies",
+    "city": "College Station, TX",
+    "conference": "Big 12",
+    "stadium": "Kyle Field",
+    "capacity": "102,733",
+    "National Championships": "3",
+    "iconURL": https://i.imgur.com/9EFH9P0.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [33.591071, -101.872910]
+  },
+  "properties": {
+    "name": "Texas Tech",
+    "nickname": "Red Raiders",
+    "city": "Lubbock, TX",
+    "conference": "Big 12",
+    "stadium": "Jones AT&T Stadium",
+    "capacity": "60,454",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/WagUoZm.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.161335, -118.167587]
+  },
+  "properties": {
+    "name": "UCLA",
+    "nickname": "Bruins",
+    "city": "Pasadena, CA",
+    "conference": "Pac-12",
+    "stadium": "Rose Bowl",
+    "capacity": "92,542",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/1sYwDjg.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.906959, -79.047870]
+  },
+  "properties": {
+    "name": "North Carolina",
+    "nickname": "Tar Heels",
+    "city": "Chapel Hill, NC",
+    "conference": "ACC",
+    "stadium": "Kenan Memorial Stadium",
+    "capacity": "50,500",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/A8QGewY.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.014045, -118.288058]
+  },
+  "properties": {
+    "name": "USC",
+    "nickname": "Trojans",
+    "city": "Los Angeles, CA",
+    "conference": "Pac-12",
+    "stadium": "Los Angeles Memorial Coliseum",
+    "capacity": "78,467",
+    "National Championships": "11",
+    "iconURL": https://i.imgur.com/HP0jeJt.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [40.760003, -111.848863]
+  },
+  "properties": {
+    "name": "Utah",
+    "nickname": "Utes",
+    "city": "Salt Lake City, UT",
+    "conference": "Pac-12",
+    "stadium": "Rice-Eccles Stadium",
+    "capacity": "45,807",
+    "National Championships": "1",
+    "iconURL": https://i.imgur.com/xaYA0ok.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [38.031120, -78.513700]
+  },
+  "properties": {
+    "name": "Virginia",
+    "nickname": "Cavaliers",
+    "city": "Charlottesville, VA",
+    "conference": "ACC",
+    "stadium": "Scott Stadium",
+    "capacity": "61,500",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/NERO7Oe.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [36.144029, -86.808931]
+  },
+  "properties": {
+    "name": "Vanderbilt",
+    "nickname": "Commodores",
+    "city": "Nashville, TN",
+    "conference": "SEC",
+    "stadium": "Vanderbilt Stadium",
+    "capacity": "40,550",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/6X8Q37O.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [37.219995, -80.418010]
+  },
+  "properties": {
+    "name": "Virginia Tech",
+    "nickname": "Hokies",
+    "city": "Blacksburg, VA",
+    "conference": "ACC",
+    "stadium": "Lane Stadium",
+    "capacity": "66,233",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/FbgQIhj.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [36.130570, -80.254569]
+  },
+  "properties": {
+    "name": "Wake Forest",
+    "nickname": "Demon Deacons",
+    "city": "Winston-Salem, NC",
+    "conference": "ACC",
+    "stadium": "BB&T Field",
+    "capacity": "31,500",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/bt4TxQo.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [47.650322, -122.301609]
+  },
+  "properties": {
+    "name": "Washington",
+    "nickname": "Huskies",
+    "city": "Seattle, WA",
+    "conference": "Pac-12",
+    "stadium": "Husky Stadium",
+    "capacity": "70,083",
+    "National Championships": "4",
+    "iconURL": https://i.imgur.com/vssUO65.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [46.731820, -117.160468]
+  },
+  "properties": {
+    "name": "Washington State",
+    "nickname": "Cougars",
+    "city": "Pullman, WA",
+    "conference": "Pac-12",
+    "stadium": "Martin Stadium",
+    "capacity": "33,522",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/unuBF5B.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [43.069944, -89.412702]
+  },
+  "properties": {
+    "name": "Wisconsin",
+    "nickname": "Badgers",
+    "city": "Madison, WI",
+    "conference": "Big Ten",
+    "stadium": "Camp Randall Stadium",
+    "capacity": "80,321",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/Y2ZgUi6.png
+  }
+}
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [39.650175, -79.955075]
+  },
+  "properties": {
+    "name": "West Virginia",
+    "nickname": "Mountaineers",
+    "city": "Morgantown, WV",
+    "conference": "Big 12",
+    "stadium": "Mountaineer Field",
+    "capacity": "60,000",
+    "National Championships": "0",
+    "iconURL": https://i.imgur.com/nP0sek3.png
   }
 }
